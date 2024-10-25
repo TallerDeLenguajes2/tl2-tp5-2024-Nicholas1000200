@@ -1,0 +1,6 @@
+@tl2_tp5_2024_Nicholas1000200_HostAddress = http://localhost:5070
+
+GET {{tl2_tp5_2024_Nicholas1000200_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
